@@ -1,0 +1,1 @@
+alert('pham hau pro tu lap tu hoc lap trinh');
